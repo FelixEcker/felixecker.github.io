@@ -1,0 +1,57 @@
+* {
+  font-family: Ubuntu Mono, monospace;
+  background-color: #ecf0f1;
+}
+
+/* Title Styling */
+#title-wrapper {
+  font-size: 45px!important;
+}
+
+#fe {
+  color: #9b59b6;
+}
+
+#bert {
+  color: #3498db;
+}
+
+#angrygerman {
+  color: #1abc9c;
+}
+
+#avatar {
+  text-align: right;
+  margin-right: 10px;
+  margin-top: -50px;
+}
+/* End Title Styling */
+
+/* Introduction Styling */
+#introduction {
+  font-size: 30px;
+}
+
+#social-media {
+  font-size: 30px;
+}
+
+#projects {
+  font-size: 30px;
+}
+
+a:visited {
+  color: #8e44ad;
+  text-decoration: none;
+}
+
+a {
+  font-size: 30px;
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  transition: color 1s;
+  color: #3498db;
+}
